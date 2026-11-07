@@ -6,7 +6,7 @@
 
 MSc student in Quantitative Finance and Insurance at the University of Turin. My research spans inventory-aware quoting, market microstructure, portfolio construction, and derivatives pricing. The market-making studies below are simulation-based research with Starting Finance Club PoliTo.
 
-[Portfolio](https://salvatoremessina11.github.io) · [LinkedIn](https://www.linkedin.com/in/salvatore-messinaa/) · [Email](mailto:salvgabrmess@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/salvatore-messinaa/) · [Email](mailto:salvgabrmess@gmail.com)
 
 </div>
 
@@ -34,7 +34,7 @@ Research with Niccolò Soriano at Starting Finance Club PoliTo. These studies us
 
 | Research | Question and approach |
 | --- | --- |
-| [Convertible bond modelling](https://github.com/SalvatoreMessina11/Stochastic-Models-for-Convertible-Bonds-of-MicroStrategy) | Undergraduate thesis work on Black–Scholes, Heston calibration, conversion optionality, and Monte Carlo methods. [Report](https://github.com/SalvatoreMessina11/Stochastic-Models-for-Convertible-Bonds-of-MicroStrategy/blob/main/README.md) (project overview). |
+| [Convertible bond modelling](https://github.com/SalvatoreMessina11/Stochastic-Models-for-Convertible-Bonds-of-MicroStrategy) | Undergraduate thesis work on Black–Scholes, Heston calibration, conversion optionality, and Monte Carlo methods. [Report](https://github.com/SalvatoreMessina11/Stochastic-Models-for-Convertible-Bonds-of-MicroStrategy/blob/main/TESI_PUBLIC.pdf). |
 | [Gold-options model research](https://github.com/SalvatoreMessina11/team8_clean) | Python implementation and ongoing out-of-sample research workflow for Black–Scholes, Heston, Bates, and Hawkes-type models. [Report](https://sfclubpolito.it/pdf-viewer.html?file=Pubblicazioni%2FAdvanced-Stochastic-Modeling-for-Gold-Options.pdf&id=2026-09-04-gold-options-stochastic-models-and-oos-tests&lang=it&title=Gold+Options%3A+Stochastic+Models+and+OOS+Tests). |
 
 ### Currently exploring
